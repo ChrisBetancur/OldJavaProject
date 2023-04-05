@@ -1,0 +1,75 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+  placeholders:
+  - offset: 520
+    length: 50
+    placeholder_text: 选择一个基准数，让数组左边都小于基准数，右边都大于基准数，再将基准数放入合适的位置，最后返回这个位置
+    initial_state:
+      length: 50
+      offset: 520
+    initialized_from_dependency: false
+    possible_answer: |2-
+                  int cur=low+1;
+                  for(int i=low;i<up;i++){
+                      if(arr[low]>arr[i]){
+                          swap(arr,cur,i);
+                          cur++;
+                      }
+                  }
+                  swap(arr,low,cur-1);
+              return cur;
+    selected: false
+    status: Unchecked
+  text: |-
+    import java.util.Arrays;
+
+    public class Task {
+        static int size;
+        public static void main(String[] args) {
+            int []arr={5,3,6,7,29,11,4,9,35};
+            size=arr.length;
+            sort(arr,0,arr.length);
+            System.out.println(Arrays.toString(arr));
+        }
+
+        static void sort(int []arr,int low,int up){
+            if(low<up) {
+                int mid=paratition(arr,low,up);
+                sort(arr, low,mid-1);
+                sort(arr, mid+1, up);
+            }
+        }
+        static  int paratition(int[] arr,int low,int up){
+
+    选择一个基准数，让数组左边都小于基准数，右边都大于基准数，再将基准数放入合适的位置，最后返回这个位置
+        }
+        static void swap(int []arr,int a,int b){
+                        int t=arr[a];
+                        arr[a]=arr[b];
+                        arr[b]=t;
+            //        arr[a]=arr[a]^arr[b];
+            //        arr[b]=arr[a]^arr[b];
+            //        arr[a]=arr[a]^arr[b];
+        }
+
+
+    }
+  learner_created: false
+- name: test/Tests.java
+  visible: false
+  text: |-
+    import org.junit.Assert;
+    import org.junit.Test;
+
+    public class Tests {
+      @Test
+      public void testSolution() {
+        // put your test here
+        Assert.fail("Tests not implemented for the task");
+      }
+    }
+  learner_created: false
+status: Unchecked
+record: -1

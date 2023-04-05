@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="15" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/BinarySearch/BinarySearchTest" />
+            <option value="$PROJECT_DIR$/FifthClass/Fibonacci" />
+            <option value="$PROJECT_DIR$/FifthClass/MergeSortAlog" />
+            <option value="$PROJECT_DIR$/FifthClass/ToiletProblem" />
+            <option value="$PROJECT_DIR$/FifthClass/monkey" />
+            <option value="$PROJECT_DIR$/SixthClass/DeepSearch" />
+            <option value="$PROJECT_DIR$/SixthClass/FullArray" />
+            <option value="$PROJECT_DIR$/SixthClass/QuickSort" />
+            <option value="$PROJECT_DIR$/SixthClass/queen" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

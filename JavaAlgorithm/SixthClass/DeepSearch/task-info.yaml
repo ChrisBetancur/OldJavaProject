@@ -1,0 +1,80 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+  placeholders:
+  - offset: 940
+    length: 7
+    placeholder_text: //如何搜索？
+    initial_state:
+      length: 7
+      offset: 940
+    initialized_from_dependency: false
+    possible_answer: |-
+      for (int i = 0; i <4 ; i++) {
+                      int currentRow=row+move[0][i];
+                      int currentCol=col+move[1][i];
+                      if(currentRow<0 || currentRow>rowSize || currentCol<0 || currentCol>colSize) continue;
+                      if(map[row][col]!=2 && map[row][col]!=-1 && flag){
+                          map[row][col]=-1;
+                          search(map,currentRow,currentCol);
+                          map[row][col]=0;
+    selected: true
+    status: Unchecked
+  text: |-
+    import java.util.Arrays;
+
+    public class Task {
+        static  int[][] move={{1,0,-1,0},
+                              {0,1,0,-1}};
+        static int rowSize=8,colSize=8;
+        static boolean flag=true;
+        public static void main(String[] args) {
+
+            int [][] map={
+                    {1, 0, 2, 0, 0, 0, 0, 0},
+                    {0, 0, 2, 0, 0, 0, 0, 0},
+                    {0, 0, 2, 0, 0, 2, 0, 0},
+                    {0, 0, 2, 0, 0, 0, 0, 0},
+                    {0, 0, 0, 0, 0, 0, 0, 0},
+                    {0, 2, 0, 0, 2, 2, 0, 0},
+                    {0, 0, 2, 0, 0, 0, 0, 0},
+                    {0, 0, 0, 0, 0, 0, 0, 3}};
+            search(map,0,0);
+        }
+
+
+        static void search(int [][] map,int row,int col){
+            if(row>=rowSize || col>=colSize) return;
+            if(map[row][col]==3){
+                for (int i = 0; i <colSize ; i++) {
+                    flag=false;
+                    System.out.println(Arrays.toString(map[i]));
+                }
+            }else {
+                //如何搜索？
+                    }
+                }
+            }
+
+        }
+
+
+    }
+  learner_created: false
+- name: test/Tests.java
+  visible: false
+  text: |-
+    import org.junit.Assert;
+    import org.junit.Test;
+
+    public class Tests {
+      @Test
+      public void testSolution() {
+        // put your test here
+        Assert.fail("Tests not implemented for the task");
+      }
+    }
+  learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,31 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+  text: |-
+    public class Task {
+        /***
+         * 有一天小猴子摘若干个桃子,当即吃了一半还觉得不过瘾,又多吃了一个。
+         * 第二天接着吃剩下桃子中的一个，仍觉得不过瘾又多吃了一个，以后小猴
+         * 子都是吃尚存桃子一半多一个。到第10天早上小猴子再去吃桃子的时候，
+         * 看到只剩下一个桃子。问小猴子第一天共摘下了多少个桃子?
+         */
+
+    }
+  learner_created: false
+- name: test/Tests.java
+  visible: false
+  text: |-
+    import org.junit.Assert;
+    import org.junit.Test;
+
+    public class Tests {
+      @Test
+      public void testSolution() {
+        // put your test here
+        Assert.fail("Tests not implemented for the task");
+      }
+    }
+  learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaAlgorithm.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BinarySearch/BinarySearchTest/JavaAlgorithm.BinarySearch-BinarySearchTest.iml" filepath="$PROJECT_DIR$/.idea/modules/BinarySearch/BinarySearchTest/JavaAlgorithm.BinarySearch-BinarySearchTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BinarySearch/BinarySearchTest/JavaAlgorithm.BinarySearch-BinarySearchTest.main.iml" filepath="$PROJECT_DIR$/.idea/modules/BinarySearch/BinarySearchTest/JavaAlgorithm.BinarySearch-BinarySearchTest.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BinarySearch/BinarySearchTest/JavaAlgorithm.BinarySearch-BinarySearchTest.test.iml" filepath="$PROJECT_DIR$/.idea/modules/BinarySearch/BinarySearchTest/JavaAlgorithm.BinarySearch-BinarySearchTest.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FifthClass/Fibonacci/JavaAlgorithm.FifthClass-Fibonacci.iml" filepath="$PROJECT_DIR$/.idea/modules/FifthClass/Fibonacci/JavaAlgorithm.FifthClass-Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FifthClass/Fibonacci/JavaAlgorithm.FifthClass-Fibonacci.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FifthClass/Fibonacci/JavaAlgorithm.FifthClass-Fibonacci.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FifthClass/Fibonacci/JavaAlgorithm.FifthClass-Fibonacci.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FifthClass/Fibonacci/JavaAlgorithm.FifthClass-Fibonacci.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FifthClass/MergeSortAlog/JavaAlgorithm.FifthClass-MergeSortAlog.iml" filepath="$PROJECT_DIR$/.idea/modules/FifthClass/MergeSortAlog/JavaAlgorithm.FifthClass-MergeSortAlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FifthClass/MergeSortAlog/JavaAlgorithm.FifthClass-MergeSortAlog.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FifthClass/MergeSortAlog/JavaAlgorithm.FifthClass-MergeSortAlog.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FifthClass/MergeSortAlog/JavaAlgorithm.FifthClass-MergeSortAlog.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FifthClass/MergeSortAlog/JavaAlgorithm.FifthClass-MergeSortAlog.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FifthClass/ToiletProblem/JavaAlgorithm.FifthClass-ToiletProblem.iml" filepath="$PROJECT_DIR$/.idea/modules/FifthClass/ToiletProblem/JavaAlgorithm.FifthClass-ToiletProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FifthClass/ToiletProblem/JavaAlgorithm.FifthClass-ToiletProblem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FifthClass/ToiletProblem/JavaAlgorithm.FifthClass-ToiletProblem.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FifthClass/ToiletProblem/JavaAlgorithm.FifthClass-ToiletProblem.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FifthClass/ToiletProblem/JavaAlgorithm.FifthClass-ToiletProblem.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FifthClass/monkey/JavaAlgorithm.FifthClass-monkey.iml" filepath="$PROJECT_DIR$/.idea/modules/FifthClass/monkey/JavaAlgorithm.FifthClass-monkey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FifthClass/monkey/JavaAlgorithm.FifthClass-monkey.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FifthClass/monkey/JavaAlgorithm.FifthClass-monkey.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FifthClass/monkey/JavaAlgorithm.FifthClass-monkey.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FifthClass/monkey/JavaAlgorithm.FifthClass-monkey.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SixthClass/DeepSearch/JavaAlgorithm.SixthClass-DeepSearch.iml" filepath="$PROJECT_DIR$/.idea/modules/SixthClass/DeepSearch/JavaAlgorithm.SixthClass-DeepSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SixthClass/DeepSearch/JavaAlgorithm.SixthClass-DeepSearch.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SixthClass/DeepSearch/JavaAlgorithm.SixthClass-DeepSearch.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SixthClass/DeepSearch/JavaAlgorithm.SixthClass-DeepSearch.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SixthClass/DeepSearch/JavaAlgorithm.SixthClass-DeepSearch.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SixthClass/FullArray/JavaAlgorithm.SixthClass-FullArray.iml" filepath="$PROJECT_DIR$/.idea/modules/SixthClass/FullArray/JavaAlgorithm.SixthClass-FullArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SixthClass/FullArray/JavaAlgorithm.SixthClass-FullArray.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SixthClass/FullArray/JavaAlgorithm.SixthClass-FullArray.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SixthClass/FullArray/JavaAlgorithm.SixthClass-FullArray.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SixthClass/FullArray/JavaAlgorithm.SixthClass-FullArray.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SixthClass/QuickSort/JavaAlgorithm.SixthClass-QuickSort.iml" filepath="$PROJECT_DIR$/.idea/modules/SixthClass/QuickSort/JavaAlgorithm.SixthClass-QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SixthClass/QuickSort/JavaAlgorithm.SixthClass-QuickSort.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SixthClass/QuickSort/JavaAlgorithm.SixthClass-QuickSort.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SixthClass/QuickSort/JavaAlgorithm.SixthClass-QuickSort.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SixthClass/QuickSort/JavaAlgorithm.SixthClass-QuickSort.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SixthClass/queen/JavaAlgorithm.SixthClass-queen.iml" filepath="$PROJECT_DIR$/.idea/modules/SixthClass/queen/JavaAlgorithm.SixthClass-queen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SixthClass/queen/JavaAlgorithm.SixthClass-queen.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SixthClass/queen/JavaAlgorithm.SixthClass-queen.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SixthClass/queen/JavaAlgorithm.SixthClass-queen.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SixthClass/queen/JavaAlgorithm.SixthClass-queen.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JavaAlgorithm.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JavaAlgorithm.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JavaAlgorithm.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JavaAlgorithm.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JavaAlgorithm.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JavaAlgorithm.util.test.iml" />
+    </modules>
+  </component>
+</project>

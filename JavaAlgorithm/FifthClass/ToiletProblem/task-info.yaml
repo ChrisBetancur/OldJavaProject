@@ -1,0 +1,39 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+  text: |-
+    public class Task {
+
+        public static void main(String[] args) {
+
+        }
+
+        static int f(int n){
+            /**
+             *      |- 2*f((n+1)/2)-1,n is odd,
+             * f(n)=|
+             *      |-f(n/2)+f(n/2+1)-1,n is even
+             *
+             * */
+        return 0;
+        }
+
+    }
+  learner_created: false
+- name: test/Tests.java
+  visible: false
+  text: |-
+    import org.junit.Assert;
+    import org.junit.Test;
+
+    public class Tests {
+      @Test
+      public void testSolution() {
+        // put your test here
+        Assert.fail("Tests not implemented for the task");
+      }
+    }
+  learner_created: false
+status: Unchecked
+record: -1
